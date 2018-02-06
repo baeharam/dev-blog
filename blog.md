@@ -7,3 +7,4 @@
 6. [joshua](http://blog.devjoshua.me) : "2017년 회고"로 알게된 분, 정말 대단하신 것 같다. 공부열심히 하자.
 7. [Stardust](http://blog.naver.com/PostList.nhn?blogId=programmer18) : "패션왕 신해빈" 문제를 풀다 발견한 블로그, 풀이가 명쾌하고 설명이 자세하다.
 8. [Exynoa](http://blog.eairship.kr/) : 강좌하시는 분인데 나이가 어리심에도 불구하고 굉장히 뛰어나다. 참 맛깔나게 잘 알려주신다.
+9. [plzrun](http://plzrun.tistory.com/) : ACM Craft 문제를 풀다가 알게 된 분이다. 알고리즘을 어떻게 공부해야 하는지 자세히 설명해주신다.
