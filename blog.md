@@ -7,3 +7,5 @@
 6. [joshua](http://blog.devjoshua.me) : "2017년 회고"로 알게된 분, 정말 대단하신 것 같다. 공부열심히 하자.
 7. [Stardust](http://blog.naver.com/PostList.nhn?blogId=programmer18) : "패션왕 신해빈" 문제를 풀다 발견한 블로그, 풀이가 명쾌하고 설명이 자세하다.
 8. [Exynoa](http://blog.eairship.kr/) : 강좌하시는 분인데 나이가 어리심에도 불구하고 굉장히 뛰어나다. 참 맛깔나게 잘 알려주신다.
+9. [ratsgo's blog](https://ratsgo.github.io/) : 퀵 선택 알고리즘을 찾다 방문하게 되었는데 다양한 내용들이 깔끔한 디자인으로 정리되어 있어서 유익하다.
+10. [마이구미](http://mygumi.tistory.com/) : 항상 알고리즘 문제 풀고 다른 풀이를 검색할 때 나오는 마이구미님의 블로그다. 이제서야 추가한다.
