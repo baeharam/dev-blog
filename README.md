@@ -12,3 +12,4 @@
 11. [plzrun](http://plzrun.tistory.com/) : ACM Craft 문제를 풀다가 알게 된 분이다. 알고리즘을 어떻게 공부해야 하는지 자세히 설명해주신다.
 12. [라이](http://blog.naver.com/prologue/PrologueList.nhn?blogId=kks227) : 히스토그램 문제를 풀다가 알게 된 분이다. 설명이 되게 상세하고 깔끔하다.
 13. [우아한형제들](http://woowabros.github.io/) : 배달의 민족 개발팀의 기술 블로그이다. 유용한 내용들이 많지만 글이 잘 안올라온다..
+14. [jayjin](https://milooy.wordpress.com) : 일일 커밋 회고로 유명하신 분이다. TIL을 보고 적용해보기로 했다.
